@@ -1,0 +1,209 @@
+.img1 {
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 123px;
+}
+.buscador {
+    width: 200px;
+    margin-left: 150px;
+    margin-bottom: 0px;
+    bottom: auto;
+    border-radius: 0px;
+}
+.ico {
+    width: 59px;
+    height: auto;
+    margin-left: 40px;
+}
+.header {
+    height: 110px;
+    width: 1250px;
+    color: #E36F0A;
+    background-color: #FFFFFF;
+    margin-right: auto;
+    margin-left: 44px;
+}
+#menu li {
+    height: 0px;
+    display: inline-block;
+    margin-left: 10px;
+    padding-top: 0px;
+    padding-right: 40px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+    margin-right: -10px;
+    color: #292525;
+    font-size: 11px;
+    vertical-align: middle;
+    background-color: #F29F05;
+    text-align: center;
+    width: 95px;
+    border-radius: 0px 40px 12px 0px;
+    border: 5px solid #F29F05;
+	top: 0px}body main section {
+    padding: 15px;
+    margin: 20px;
+}
+.muralistas {
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+body main section {
+    padding: 15px;
+    margin: 20px;
+	width: auto
+}
+#submenu {
+}
+#menuu li {
+    height: 0px;
+    display: inline-block;
+    margin-left: 90px;
+    padding-top: 0px;
+    padding-right: 40px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+    margin-right: 10px;
+    color: #292525;
+    font-size: 11px;
+    vertical-align: middle;
+    background-color: #F29F05;
+    text-align: center;
+    width: 95px;
+    border-radius: 0px 40px 12px 0px;
+    border: 5px solid #F29F05;
+    top: 0px
+}
+.boton {
+    margin-top: 10px;
+    margin-right: 75px;
+    margin-left: 55px;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 20px;
+    background-color: #F2532C;
+    width: 260px;
+    border: thin solid #F2532C;
+    color: #F7F4EB;
+    height: 30px;
+    font-weight: bold;
+}
+.montenegro {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
+}
+#boton_nombre li {
+    margin-right: 75px;
+    margin-left: auto;
+    background-color: #F2532C;
+    width: 255px;
+    border: thin solid #F2532C;
+    color: #F7F4EB;
+    height: 30px;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    align-self: center;
+    padding-left: 15px;
+    padding-right: 40px;
+}
+#boton_nombre2 a {
+    color: #F7F4EB;
+    text-decoration: none;
+}
+#boton_nombre2 li{
+    margin-right: 75px;
+    margin-left: auto;
+    background-color: #F2532C;
+    width: 255px;
+    border: thin solid #F2532C;
+    color: #F7F4EB;
+    height: 30px;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    align-self: center;
+    padding-left: 15px;
+    padding-right: 40px;
+}
+#boton_nombre3 li{
+    margin-right: 75px;
+    margin-left: auto;
+    background-color: #F2532C;
+    width: 255px;
+    border: thin solid #F2532C;
+    color: #F7F4EB;
+    height: 30px;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    align-self: center;
+    padding-left: 15px;
+    padding-right: 40px;
+}
+#boton_nombre4 li{
+    margin-right: 75px;
+    margin-left: auto;
+    background-color: #F2532C;
+    width: 255px;
+    border: thin solid #F2532C;
+    color: #F7F4EB;
+    height: 30px;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    align-self: center;
+    padding-left: 15px;
+    padding-right: 40px;
+}
+#boton_nombre4 a {
+    color: #F7F4EB;
+    text-decoration: none;
+}
+.tipo label{
+    display: inline-block;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    overflow-x: visible;
+    overflow-y: visible;
+    clear: both;
+}
+.tipo{
+    margin-right: auto;
+    margin-left: 250px;
+}.bellas_artes {
+    float: right;
+}
+#sec_op {width: 800px;
+    text-align: left;
+    margin-left: auto;
+    padding: 20px;
+    margin-right: auto;
+    background-color: #F7F4EB;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.map {
+    width: 50%;
+    float: right;
+}
+#foto {
+    float: right;
+    padding-left: 15px;
+}
+.sub {
+    text-align: center;
+}
+.datos {
+    list-style-type: none;
+}
+.boldd {
+    font-weight: bold;
+}

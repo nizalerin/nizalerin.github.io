@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>pagina</title>
+<style type="text/css">
+.img1 {
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 123px;
+}
+.buscador {
+    width: 200px;
+    margin-left: 150px;
+    margin-bottom: 0px;
+    bottom: auto;
+    border-radius: 0px;
+}
+.ico {
+    width: 59px;
+    height: auto;
+    margin-left: 40px;
+}
+.header {
+    height: 110px;
+    width: 1250px;
+    color: #E36F0A;
+    background-color: #FFFFFF;
+    margin-right: auto;
+    margin-left: 44px;
+}
+</style>
+</head>
+
+<body>
+<header class="header"><img src="Museo.png" alt="" width="400" height="126" class="img1"/>
+  
+  <input name="search" type="search" class="buscador">
+<img src="icomuseo.png" alt="" width="512" height="512" class="ico"/><img src="informacion.png" alt="" width="512" height="512" class="ico"/><img src="redes.png" alt="" width="512" height="512" class="ico"/>&nbsp;</header>
+</body>
+</html>
